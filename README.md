@@ -1,7 +1,8 @@
-# Developed by: Naveen R
-# RegisterNumber: 24900811
+**Developed by: Naveen R**
 
-### ENCODER 8TO3 DATAFLOW Modelling
+**RegisterNumber: 24900811**
+
+# ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
