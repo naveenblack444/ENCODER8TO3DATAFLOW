@@ -41,7 +41,7 @@ Figure 02  Encoder 8 * 3
 **PROGRAM**
 ```
 
-module enc(a,b,c,y0,y1,y2,y3,y4,y5,y6,y7);
+module expt5(a,b,c,y0,y1,y2,y3,y4,y5,y6,y7);
 
 input y0,y1,y2,y3,y4,y5,y6,y7;
 
